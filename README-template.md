@@ -14,7 +14,7 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
 
 ### Screenshot
 
-![desktop screenshot](/screenshot-desktop.png)
+![desktop screenshot](./public/screenshot-desktop.png)
 
 ### Links
 
