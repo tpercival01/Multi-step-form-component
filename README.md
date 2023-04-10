@@ -18,7 +18,7 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend mentor solution page](https://www.frontendmentor.io/solutions/multistep-form-component-3DeFJ8KXyX)
 - Live Site URL: [Render](https://multi-step-form-component.onrender.com/)
 
 ### Built with
